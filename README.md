@@ -1,15 +1,15 @@
- Hi there i am Ashik👋
+ Hi there i am Ashik👋 
+ <html>
+ 
 
-<!--
-**Ashik132/Ashik132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
- 🔭 I’m currently working on town of ____
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me my tools about sabiranashik132@gmail.com
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<head> 
+ <title>Ashik</title>
+ </head> 
+ <body>
+ <h1>Ashik1</h1>
+ 
+ 
+</body>
+</html>
